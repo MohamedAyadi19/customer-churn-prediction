@@ -31,7 +31,7 @@ Using the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastch
 
 1. Clone the repository
    
-git clone https://github.com/YOUR-USERNAME/customer-churn-prediction.git
+git clone https://github.com/MohamedAyadi19/customer-churn-prediction.git
 cd customer-churn-prediction
 
 3. Install dependencies
@@ -42,16 +42,16 @@ pip install -r requirements.txt
 
 jupyter notebook notebooks/01_data_exploration.ipynb
 
-Project Status :
+### Project Status :
 In Progress - This project is currently under development.
 
-• Results/visualizations
+### Results/visualizations
 
-• Future improvements
+### Future improvements
 
-• Contributing guidelines
+### Contributing guidelines
 
-• Contact/links
+### Contact/links
 
 
 
